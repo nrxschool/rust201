@@ -1,4 +1,4 @@
-# Rust 201 – Beyond the Basics
+# Rust 201
 
 ## 1. Recapitulando o Básico
 
